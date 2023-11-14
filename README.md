@@ -1,4 +1,4 @@
-# U.K-Road-Accident-Dashboard
+# Power BI U.K-Road-Accident-Dashboard
 This GitHub repository contains dashboard (pbit format) of United Kingdom's Road Accident data created with help of Power BI after analyzing with sql. To Download "pbit file" just click on "View raw". The dataset includes information on various aspects of accident, such as road conditions, type of vehicles, date, Sex of driver,age of driver , age of vehicle & etc. The goal of this project is to explore and gain insights from the data related to road accident and distribution across district. 
 The data is sourced from https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
 
